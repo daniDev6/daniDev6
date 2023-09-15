@@ -2,7 +2,7 @@
 <h3 align="center">Soy un programador front-end y back-end</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danidev6&label=Profile%20views&color=0e75b6&style=flat" alt="danidev6" /> </p>
-
+<img src="https://media4.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif?cid=ecf05e47fs9fm0bh9lqu6k14u03qhloabnfn9stvkzb036n8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="300px">
 <h3 align="left">Conectate a mis redes sociales</h3>
 <p align="left">
 </p>
