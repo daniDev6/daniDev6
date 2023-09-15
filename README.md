@@ -6,9 +6,7 @@
 <h3 align="left">Conectate a mis redes sociales</h3>
 <p align="left">
 </p>
-<div align="center">
-    <img src="https://media4.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif?cid=ecf05e47fs9fm0bh9lqu6k14u03qhloabnfn9stvkzb036n8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500px" height="300px">
-</div>
+    <img src="https://media4.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif?cid=ecf05e47fs9fm0bh9lqu6k14u03qhloabnfn9stvkzb036n8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="300">
     <a href="https://www.linkedin.com/in/daniel-villalba-full-stack/">
         <img src="https://img.shields.io/badge/linkedIn-Visita%20mi%20perfil-blue?labelColor=09f&style=flat-square&link=https://www.linkedin.com/in/daniel-villalba-full-stack/" alt="linkedIn" />
     </a>
