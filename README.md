@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/daniel-villalba-full-stack/">
         <img src="https://img.shields.io/badge/linkedIn-Visita%20mi%20perfil-blue?labelColor=09f&style=flat-square&link=https://www.linkedin.com/in/daniel-villalba-full-stack/" alt="linkedIn" />
     </a>
-    <a href="https://www.linkedin.com/in/daniel-villalba-full-stack/">
+    <a href="https://www.instagram.com/danidev21/">
         <img src="https://img.shields.io/badge/Instagram-Visita%20mi%20perfil-500821?labelColor=F0588D&style=flat-square&link=https://www.linkedin.com/in/daniel-villalba-full-stack/" alt="Instagram" />
     </a>
 <h3 align="left">Languages and Tools:</h3>
