@@ -1,42 +1,118 @@
-<h1 align="center">Hola 👋, yo soy Daniel</h1>
-<h3 align="center">Soy un programador front-end y back-end</h3>
+# Hola 👋, soy Daniel
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danidev6&label=Profile%20views&color=0e75b6&style=flat" alt="danidev6" /> </p>
+### Desarrollador de Software en formación | C# / .NET | Analista en Sistemas
 
-<h3 align="left">Conectate a mis redes sociales</h3>
-<p align="left">
-</p>
-    <img src="https://media4.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif?cid=ecf05e47fs9fm0bh9lqu6k14u03qhloabnfn9stvkzb036n8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="300">
-    <a href="https://www.linkedin.com/in/daniel-villalba-full-stack/">
-        <img src="https://img.shields.io/badge/linkedIn-Visita%20mi%20perfil-blue?labelColor=09f&style=flat-square&link=https://www.linkedin.com/in/daniel-villalba-full-stack/" alt="linkedIn" />
-    </a>
-    <a href="https://www.instagram.com/danidev21/">
-        <img src="https://img.shields.io/badge/Instagram-Visita%20mi%20perfil-500821?labelColor=F0588D&style=flat-square&link=https://www.linkedin.com/in/daniel-villalba-full-stack/" alt="Instagram" />
-    </a>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-  </a>
-</p>
+![Visitas al perfil](https://komarev.com/ghpvc/?username=danidev6&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
 
+---
 
+## 👨‍💻 Sobre mí
 
+Soy estudiante de **Analista en Sistemas** y desarrollador en formación, enfocado principalmente en el ecosistema **C# / .NET**.
+
+Me interesa comprender cómo funcionan los sistemas internamente y no limitarme solamente a escribir código. Actualmente estoy fortaleciendo mis conocimientos en **programación orientada a objetos, estructuras de datos, bases de datos, arquitectura de software, APIs y desarrollo de aplicaciones de escritorio**.
+
+Mi objetivo profesional es crecer como **desarrollador de software**, incorporándome progresivamente a proyectos reales y evolucionando hacia perfiles de mayor responsabilidad técnica.
+
+Actualmente estoy profundizando especialmente en:
+
+- C# y .NET
+- Programación orientada a objetos
+- Arquitectura por capas
+- Repository / Service / DTO
+- APIs REST
+- Entity Framework Core
+- Dapper
+- SQL y bases de datos
+- WPF y patrón MVVM
+- WinForms
+- Git y GitHub
+- Estructuras de datos y algoritmos
+- Principios de código limpio y buenas prácticas
+
+---
+
+## 🎓 Formación
+
+**Analista en Sistemas — IES**
+
+Materias aprobadas:
+
+- Álgebra
+- Laboratorio de Programación 1
+- Programación Lógica 1
+- Laboratorio de Programación 2
+- Matemática Discreta
+- Programación Lógica 2
+
+Actualmente continúo avanzando en mi formación y consolidando conocimientos de desarrollo de software.
+
+---
+
+## 🚀 Actualmente trabajando en
+
+### 🏥 Sistema de gestión médica
+
+Proyecto orientado a la gestión de pacientes, turnos y profesionales de la salud.
+
+La idea del proyecto contempla una evolución progresiva hacia:
+
+**Aplicación de escritorio → API → Aplicación web → Servicios en la nube**
+
+Tecnologías y conceptos involucrados:
+
+- C#
+- .NET
+- WPF
+- MVVM
+- Web API
+- SQL
+- Entity Framework Core
+- Dapper
+- DTOs
+- Repository Pattern
+- Service Layer
+- Inyección de dependencias
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+
+### .NET
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="40" height="40" />
+
+### Bases de datos
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+
+### Herramientas
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
+
+---
+
+## 🧠 Conceptos que estoy fortaleciendo
+
+```text
+Programación orientada a objetos
+        ↓
+Estructuras de datos y algoritmos
+        ↓
+C# / .NET
+        ↓
+Bases de datos
+        ↓
+Arquitectura de software
+        ↓
+APIs REST
+        ↓
+Aplicaciones de escritorio
+        ↓
+Aplicaciones web
+        ↓
+Cloud / IA
