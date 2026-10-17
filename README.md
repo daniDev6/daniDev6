@@ -2,7 +2,6 @@
 
 ### Desarrollador de Software en formación | C# / .NET | Analista en Sistemas
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=danidev6&label=Visitas_al_perfil&color=0e75b6&style=flat)
 
 ---
 
